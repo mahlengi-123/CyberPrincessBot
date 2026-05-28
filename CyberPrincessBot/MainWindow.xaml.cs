@@ -60,7 +60,7 @@ namespace CyberSafeBot
 
             chatStackPanel.Children.Add(bubble);
 
-            // Auto-scroll
+           
             var scroll = FindVisualChild<ScrollViewer>(this);
             scroll?.ScrollToEnd();
         }

@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "POE Part 1 CyberSecurityChatBot": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

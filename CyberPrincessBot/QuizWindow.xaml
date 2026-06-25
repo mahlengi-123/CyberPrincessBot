@@ -4,7 +4,7 @@
         Title="🎮 Cyber Chat" Height="500" Width="600"
         WindowStartupLocation="CenterScreen"
         Background="#FFF5F0FF" ResizeMode="NoResize">
-    <Grid Margin="10">
+    <Grid Margin="2o">
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto"/>
             <RowDefinition Height="Auto"/>
